@@ -1,8 +1,11 @@
 * {
-  background-color: #99D9EA; }
+ background-color: PowderBlue; 
+ }
 
 header {
-  border-bottom: 3px solid black; }
+  border-bottom: 3px groove Gray;
+	padding: 25px;
+border-width: thick;}
 
 section {
   padding: 5px; }
@@ -14,18 +17,20 @@ section {
 
 nav > * {
   height: 600px;
-  padding: 15px;
+  padding: 25px;
   margin-top: 0px;
-  border-left: solid black;
+  border-left: groove Gray;
   float: right;
   font-size: 21px; }
 li{
     list-style: none;
 }
-.li {
-   background-color: white;
-}
+
 a{
     text-decoration: none;
 }
+div.post{
+font-size:20px;
+}
+
 /*# sourceMappingURL=main.css.map */
