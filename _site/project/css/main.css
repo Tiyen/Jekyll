@@ -11,9 +11,12 @@ section {
   padding: 5px; }
 
 #ueberschrift {
-  padding-left: 30%;
+  padding-left: 27%;
   background-color: transparent;
-  position: absolute; }
+  position: absolute;
+font-size: 49px;
+font-family: georgia;
+font-style:italic;  }
 
 nav > * {
   height: 600px;
@@ -32,5 +35,8 @@ a{
 div.post{
 font-size:20px;
 }
+h1.post-title{
+font-family: georgia;
+font-style: italic;}
 
 /*# sourceMappingURL=main.css.map */
