@@ -6,15 +6,46 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Jan 2015 18:58:15 +0100</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2015 18:58:15 +0100</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2015 23:53:37 +0100</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2015 23:53:37 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>2015-01-21 Backend WIP</title>
-        <description>&lt;p&gt;Heute hat das Entwicklungsteam die komplette Datenbank einbindung &lt;em&gt;realisieren&lt;/em&gt; können&lt;/p&gt;
+        <description>&lt;h3 id=&quot;meilenstein&quot;&gt;Meilenstein:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Was wurde wie erreicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;funktionen&quot;&gt;Funktionen:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Funktionen hat das Erreichen des Meilensteins ermöglicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;beteiligte&quot;&gt;Beteiligte:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wer ist beteiligt gewesen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ressourcen&quot;&gt;Ressourcen&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Ressourcen wurden benötigt?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bentigte-zeit&quot;&gt;Benötigte Zeit:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Startzeit: XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Endzeit  : XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Dauer	: XX Stunden, XX Minuten&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Wed, 21 Jan 2015 18:25:00 +0100</pubDate>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://yourdomain.com/se/2015/01/21/SE_Backend.html</link>
         <guid isPermaLink="true">http://yourdomain.com/se/2015/01/21/SE_Backend.html</guid>
         
@@ -25,10 +56,39 @@
     
       <item>
         <title>2015-01-21 Backend WIP</title>
-        <description>&lt;p&gt;Datenbank Verbindung steht inzwischen des weiteren wurde der Serverseitige Code erweitert
-und ist nun weit Fortgeschritten&lt;/p&gt;
+        <description>&lt;h3 id=&quot;meilenstein&quot;&gt;Meilenstein:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Was wurde wie erreicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;funktionen&quot;&gt;Funktionen:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Funktionen hat das Erreichen des Meilensteins ermöglicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;beteiligte&quot;&gt;Beteiligte:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wer ist beteiligt gewesen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ressourcen&quot;&gt;Ressourcen&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Ressourcen wurden benötigt?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bentigte-zeit&quot;&gt;Benötigte Zeit:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Startzeit: XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Endzeit  : XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Dauer	: XX Stunden, XX Minuten&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Wed, 21 Jan 2015 18:25:00 +0100</pubDate>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://yourdomain.com/pm/2015/01/21/PM_Backend.html</link>
         <guid isPermaLink="true">http://yourdomain.com/pm/2015/01/21/PM_Backend.html</guid>
         
@@ -39,9 +99,40 @@ und ist nun weit Fortgeschritten&lt;/p&gt;
     
       <item>
         <title>2015-01-11 Architektur</title>
-        <description>&lt;p&gt;Heute haben wir mit dem Team Architektur ausgearbeitet und danach wurden direkt die Struktur selbiger angelegt&lt;/p&gt;
+        <description>&lt;h3 id=&quot;meilenstein&quot;&gt;Meilenstein:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Was wurde wie erreicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;funktionen&quot;&gt;Funktionen:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Funktionen hat das Erreichen des Meilensteins ermöglicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;beteiligte&quot;&gt;Beteiligte:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wer ist beteiligt gewesen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ressourcen&quot;&gt;Ressourcen&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Ressourcen wurden benötigt?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bentigte-zeit&quot;&gt;Benötigte Zeit:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Startzeit: XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Endzeit  : XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Dauer	: XX Stunden, XX Minuten&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Sun, 11 Jan 2015 18:27:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://yourdomain.com/se/2015/01/11/SE_Architektur.html</link>
         <guid isPermaLink="true">http://yourdomain.com/se/2015/01/11/SE_Architektur.html</guid>
         
@@ -52,9 +143,39 @@ und ist nun weit Fortgeschritten&lt;/p&gt;
     
       <item>
         <title>2015-01-11 Architektur</title>
-        <description>&lt;p&gt;Mit dem Team wurde heute eine Architektur ausgearbeited diese besteht aus……………..&lt;/p&gt;
+        <description>&lt;h3 id=&quot;meilenstein&quot;&gt;Meilenstein:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Was wurde wie erreicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;funktionen&quot;&gt;Funktionen:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Funktionen hat das Erreichen des Meilensteins ermöglicht?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;beteiligte&quot;&gt;Beteiligte:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wer ist beteiligt gewesen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ressourcen&quot;&gt;Ressourcen&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Welche Ressourcen wurden benötigt?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bentigte-zeit&quot;&gt;Benötigte Zeit:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Startzeit: XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Endzeit  : XX : XX Uhr&lt;/li&gt;
+  &lt;li&gt;Dauer	: XX Stunden, XX Minuten&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sun, 11 Jan 2015 18:27:00 +0100</pubDate>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://yourdomain.com/pm/2015/01/11/PM_Architektur.html</link>
         <guid isPermaLink="true">http://yourdomain.com/pm/2015/01/11/PM_Architektur.html</guid>
         
