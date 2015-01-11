@@ -1,6 +1,6 @@
 ---
 layout: PM_template
-title:  "2015-01-11 Architektur"
+title:  "Architektur"
 date:   2015-01-11 18:27
 categories: pm
 ---

@@ -7,9 +7,24 @@
 
 <!---- Header ---->
 {% include head.html %}
-<!----Body---->
-{% include /content/SE_content.html%}
-{{content}}
+<section>
+	
+	<!----Body---->
+	{% include /content/SE_content.html%}
+	
+	<h1 class="post-title">
+		{{ page.title }}
+	</h1>
+	
+	<div class="post-date">
+		{{ page.date | date: "%b %-d, %Y" }}
+	</div>
+	
+	<div class="post-content">
+		{{content}}
+	</div>
+	
+</section>
 
 </body>
 </html>

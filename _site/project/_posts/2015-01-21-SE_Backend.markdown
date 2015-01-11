@@ -1,6 +1,6 @@
 ---
 layout: SE_template
-title:  "2015-01-21 Backend WIP"
+title:  "Backend WIP"
 date:   2015-01-21 18:25
 categories: se
 Timespended: 5
