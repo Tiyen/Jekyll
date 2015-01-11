@@ -1,35 +1,33 @@
+/*--------------------------------*/
+/*# sourceMappingURL=main.css.map */
+/*--------------------------------*/
+
+/*---------------------------*/
+/*Globale Settings*/
 body {
 	margin-left: 0;
 	margin-right: 0;
 	margin-top: 0;
 }
-
-* {
- background-color: ;
-	color: #f1f1f1;
-}
-
 header {
   border-bottom: 3px groove Gray;
 	border-width: thin;
 	height: 120px;
 }
-
 .heading {
 	disply: inline;
 	position: relative;
 }
-
 h1 {
 	color: black;
 }
-
 section > * {
   padding: 5px; 
   padding-left: 100px;
   padding-right: 10px;
-
 }
+/*---------------------------*/
+
 
 /*---------------------------*/
 /*Styles für Post Content*/
@@ -50,7 +48,6 @@ section > * {
 	padding-top: 10px;
 	margin-bottom: 50px;
 }
-
 p {
 	font-family: Helvetica;
 	font-weight: lighter;
@@ -62,6 +59,8 @@ p {
 }
 /*---------------------------*/
 
+/*---------------------------*/
+/*Header Bereich*/
 #ueberschrift {
 	margin-left:  0;
 	padding-left: 100px;
@@ -71,13 +70,16 @@ p {
   position: absolute;
 	font-size: 35px;
 	font-family: georgia;
-	font-style:italic;  }
+	font-style:italic;  
+}
+/*---------------------------*/
 
+/*---------------------------*/
+/*Navigation*/
 nav {
   positon: fixed;
   padding-top: 30px;
 }
-
 nav > * {
   height: 1200px;
   border-left: 3px groove Gray;
@@ -87,7 +89,6 @@ nav > * {
   min-width: 250px;
 
 }
-
 li{
 	font-family: Helvetica;
 	font-weight: lighter;
@@ -96,7 +97,6 @@ li{
   margin-top: 20px;
   margin-right: 10px;
 }
-
 a{
    text-decoration: none;
    color: gray;
@@ -104,13 +104,12 @@ a{
 .nav-date {
 	color: orange;
 }
+/*---------------------------*/
+
+
+/*---------------------------*/
+/*Content Bereich*/
 div.post{
 	padding-top: 10px;
 	font-size: 20px;
 }
-
-
-
-
-
-/*# sourceMappingURL=main.css.map */
