@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="../css/main.css">
     <title>Testat 2 WAW</title>
     <meta charset="UTF-8">
 </head>
@@ -13,16 +13,14 @@
 <nav>
     <ul>
         <li>
-            <a href="../sites/home.html">Home</a>
+            <a href="../_includes/home.html">Home</a>
         </li>
-        {% for post in site.posts %}
         <li>
-            <a class="post-link" hrefs="{{ /postspm/post.url | prepend: site.baseurl }}">{{ post.title }} </a>
-            <a class="post-link" hrefs="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
-
+            <a href="PM.html">Projekt Manager</a>
         </li>
-        {% endfor %}
-
+        <li>
+            <a href="SE.html">Entwickler</a>
+        </li>
     </ul>
 </nav>
 </html>
