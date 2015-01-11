@@ -1,0 +1,34 @@
+
+*{
+  background-color: #99D9EA;
+}
+
+
+header {
+  border-bottom:3px solid black
+}
+
+section {
+  padding:5px;
+}
+
+#ueberschrift {
+
+  padding-left: 30%;
+  background-color: transparent;
+  position: absolute;
+
+}
+
+nav > * {
+  height: 600px;
+  padding: 15px;
+  margin-top: 0px;
+  border-left:solid black;
+  float: right;
+  font-size: 21px;
+}
+
+a {
+
+}

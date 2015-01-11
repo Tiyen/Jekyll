@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="../css/main.css">
-    <title>Testat 2 WAW</title>
-    <meta charset="UTF-8">
-</head>
-<body>
-<header>
-    <h1 id="ueberschrift">Willkommmen auf meiner Seite</h1>
-    <img src="http://www.gruenderverbund.info/images/ecics_17_17.jpg" alt="logo" id="kuh"/>
-</header>
-
-<nav>
-    <ul>
-        <li>
-<<<<<<< HEAD
-            <a href="home.html">Home</a>
-        </li>
-
-        {% for post in site.categories.PM %}
-        <li>
-            <a class="post-link" hrefs="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
-        </li>
-        {% endfor %}
-=======
-            <a href="../sites/home.html">Home</a>
-        </li>
->>>>>>> 5b63740db9d6c36f5b154ae71c60dc37257346ec
-    </ul>
-</nav>
-</body>
-</html>
+---
+layout: PM_template
+---
