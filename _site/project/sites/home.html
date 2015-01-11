@@ -11,23 +11,18 @@
     <img src="http://www.gruenderverbund.info/images/ecics_17_17.jpg" alt="logo" id="kuh"/>
 </header>
 <nav>
-<ul>
-    <li>
-        <a href="../sites/PM.html">Personal Manager</a>
-    </li>
-    <li>
-        <a href="../sites/home.html">Home</a>
-    </li>
-
-    {% comment %}
+    <ul>
+        <li>
+            <a href="../sites/home.html">Home</a>
+        </li>
         {% for post in site.posts %}
-    <li>
-        <a class="post-link" hrefs="{{ /postspm/post.url | prepend: site.baseurl }}">{{ post.title }} </a>
-        <a class="post-link" hrefs="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
+        <li>
+            <a class="post-link" hrefs="{{ /postspm/post.url | prepend: site.baseurl }}">{{ post.title }} </a>
+            <a class="post-link" hrefs="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
 
-    </li>
+        </li>
         {% endfor %}
-    {% endcomment %}
-</ul>
+
+    </ul>
 </nav>
 </html>
