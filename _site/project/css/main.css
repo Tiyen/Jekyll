@@ -1,0 +1,42 @@
+* {
+ background-color: PowderBlue; 
+ }
+
+header {
+  border-bottom: 3px groove Gray;
+	padding: 25px;
+border-width: thick;}
+
+section {
+  padding: 5px; }
+
+#ueberschrift {
+  padding-left: 27%;
+  background-color: transparent;
+  position: absolute;
+font-size: 49px;
+font-family: georgia;
+font-style:italic;  }
+
+nav > * {
+  height: 600px;
+  padding: 25px;
+  margin-top: 0px;
+  border-left: groove Gray;
+  float: right;
+  font-size: 21px; }
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+div.post{
+font-size:20px;
+}
+h1.post-title{
+font-family: georgia;
+font-style: italic;}
+
+/*# sourceMappingURL=main.css.map */
