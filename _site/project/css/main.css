@@ -31,15 +31,37 @@ section > * {
 
 }
 
+/*---------------------------*/
+/*Styles für Post Content*/
+.post-title {
+	margin-bottom: -20px;	
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+.post-date {
+	margin-top: 10px;
+	padding-left: 100px;
+	color: red;
+	padding-top: 10px;
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+.post-content {
+	padding-top: 10px;
+	margin-bottom: 100px;
+}
+
 p {
 	font-family: Helvetica;
 	font-weight: lighter;
 	color: black;
 	positon: relative;
 	padding-right: 35%;
-	padding-top: 20px;
 	line-height: 25px;
+	margin-top: 0;
 }
+/*---------------------------*/
+
 #ueberschrift {
 	margin-left:  0;
 	padding-left: 100px;
@@ -55,12 +77,13 @@ nav {
   positon: fixed;
   padding-top: 30px;
 }
+
 nav > * {
-  height: 600px;
+  height: 1200px;
   border-left: 3px groove Gray;
   border-width: thin;
   float: right;
-  font-size: 20px; 
+  font-size: 15px; 
   min-width: 250px;
 
 }
@@ -75,16 +98,15 @@ li{
 
 a{
    text-decoration: none;
-   color: black;
+   color: red;
 }
+
 div.post{
 	padding-top: 10px;
 	font-size: 20px;
 }
 
-h1.post-title{
-	font-family: georgia;
-	font-style: italic;}
+
 
 
 

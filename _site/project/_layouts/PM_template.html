@@ -8,9 +8,22 @@
 <!---- Header ---->
 {% include head.html %}
 <section>
-<!----Body---->
-{% include /content/PM_content.html%}
-{{content}}
+	
+	<!----Body---->
+	{% include /content/PM_content.html%}
+	
+	<h1 class="post-title">
+		{{ page.title }}
+	</h1>
+	
+	<div class="post-date">
+		{{ page.date | date: "%b %-d, %Y" }}
+	</div>
+	
+	<div class="post-content">
+		{{content}}
+	</div>
+	
 </section>
 
 </body>
